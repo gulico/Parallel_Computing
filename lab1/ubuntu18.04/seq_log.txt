@@ -1,0 +1,7 @@
+loop: 2500--using time 75
+loop: 5000--using time 253
+loop: 7500--using time 566
+loop: 10000--using time 952
+loop: 12500--using time 1471
+loop: 15000--using time 2108
+loop: 17500--using time 2847

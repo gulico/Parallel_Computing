@@ -1,0 +1,2 @@
+N1->loop: 2500--using time 75
+N2->loop: 15000--using time 2108
